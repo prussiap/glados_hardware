@@ -1,0 +1,13 @@
+glados_reader_node/License.dat
+glados_reader_node/auth.json
+glados_reader_node/audio/*
+glados_reader_node/serialwrapper
+glados_reader_node/snapconnect/*
+glados_reader_node/snaplib/*
+glados_reader_node/setup.py
+glados_reader_node/README.txt
+glados_reader_node/PKG-INFO
+glados_reader_node/nvparams.dat
+glados_reader_node/MANIFEST.in
+glados_reader_node/apy/*
+glados_reader_node/.cache/*
